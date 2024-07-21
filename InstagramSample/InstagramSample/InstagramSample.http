@@ -1,0 +1,6 @@
+@InstagramSample_HostAddress = http://localhost:5002
+
+GET {{InstagramSample_HostAddress}}/home/
+Accept: application/json
+
+###
