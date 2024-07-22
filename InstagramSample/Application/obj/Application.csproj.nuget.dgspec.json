@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SampleCode\\InstagramSample\\InstagramSample\\InstagramSample.csproj": {}
+    "D:\\SampleCode\\InstagramSample\\Application\\Application.csproj": {}
   },
   "projects": {
     "D:\\SampleCode\\InstagramSample\\Application\\Application.csproj": {
@@ -266,86 +266,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\SampleCode\\InstagramSample\\InstagramSample\\InstagramSample.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\SampleCode\\InstagramSample\\InstagramSample\\InstagramSample.csproj",
-        "projectName": "InstagramSample",
-        "projectPath": "D:\\SampleCode\\InstagramSample\\InstagramSample\\InstagramSample.csproj",
-        "packagesPath": "C:\\Users\\e-jahani\\.nuget\\packages\\",
-        "outputPath": "D:\\SampleCode\\InstagramSample\\InstagramSample\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\e-jahani\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "https://10.0.85.160:36200/Nuget": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\SampleCode\\InstagramSample\\Application\\Application.csproj": {
-                "projectPath": "D:\\SampleCode\\InstagramSample\\Application\\Application.csproj"
-              },
-              "D:\\SampleCode\\InstagramSample\\DTO\\DTO.csproj": {
-                "projectPath": "D:\\SampleCode\\InstagramSample\\DTO\\DTO.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

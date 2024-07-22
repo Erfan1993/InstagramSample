@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstagramSample", "InstagramSample\InstagramSample.csproj", "{22E7FAF2-10F4-4351-ABBB-56185F28B668}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstagramSample", "InstagramSample\InstagramSample.csproj", "{22E7FAF2-10F4-4351-ABBB-56185F28B668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{8EF315D1-5B7F-49F5-93B4-A672AF70B805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{7B1D74A7-E0A3-497A-B4A6-6518367F9FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{E841ED9C-953D-416E-A659-FE963822F748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{830F37D8-B5F4-42FC-926F-4B363E749615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalService", "ExternalService\ExternalService.csproj", "{900AF259-B194-46A7-B5FF-4C10EA94D549}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{22E7FAF2-10F4-4351-ABBB-56185F28B668}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22E7FAF2-10F4-4351-ABBB-56185F28B668}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22E7FAF2-10F4-4351-ABBB-56185F28B668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF315D1-5B7F-49F5-93B4-A672AF70B805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF315D1-5B7F-49F5-93B4-A672AF70B805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF315D1-5B7F-49F5-93B4-A672AF70B805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF315D1-5B7F-49F5-93B4-A672AF70B805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1D74A7-E0A3-497A-B4A6-6518367F9FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1D74A7-E0A3-497A-B4A6-6518367F9FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1D74A7-E0A3-497A-B4A6-6518367F9FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1D74A7-E0A3-497A-B4A6-6518367F9FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E841ED9C-953D-416E-A659-FE963822F748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E841ED9C-953D-416E-A659-FE963822F748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E841ED9C-953D-416E-A659-FE963822F748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E841ED9C-953D-416E-A659-FE963822F748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830F37D8-B5F4-42FC-926F-4B363E749615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830F37D8-B5F4-42FC-926F-4B363E749615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830F37D8-B5F4-42FC-926F-4B363E749615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830F37D8-B5F4-42FC-926F-4B363E749615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900AF259-B194-46A7-B5FF-4C10EA94D549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900AF259-B194-46A7-B5FF-4C10EA94D549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900AF259-B194-46A7-B5FF-4C10EA94D549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900AF259-B194-46A7-B5FF-4C10EA94D549}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

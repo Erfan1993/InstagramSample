@@ -4,7 +4,7 @@ namespace InstagramSample.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class FollowController : InstagramBaseController
+    public class UserController : InstagramBaseController
     {
         [HttpGet]
         public IActionResult Get()
