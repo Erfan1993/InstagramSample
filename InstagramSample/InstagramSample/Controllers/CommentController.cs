@@ -1,11 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using InstagramSample.Basic;
 
-namespace InstagramSample.Controllers
+namespace InstagramSample.Controllers;
+public class CommentController : ControllerWithBaseDateBase
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class CommentController : InstagramBaseController
-    {
-    }
+
 }

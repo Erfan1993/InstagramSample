@@ -1,16 +1,9 @@
+using Entity;
+using InstagramSample.Basic;
 using Microsoft.AspNetCore.Mvc;
 
-namespace InstagramSample.Controllers
+namespace InstagramSample.Controllers;
+public class FollowController : ControllerWithBaseDateBase
 {
-    [ApiController]
-    [Route("[controller]")]
-    public class HomeController : InstagramBaseController
-    {
-        [HttpGet]
-        public IActionResult Get()
-        {
-            return Ok("this is a test page as index Page");
-        }
 
-    }
 }

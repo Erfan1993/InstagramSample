@@ -1,0 +1,12 @@
+D:\Project\InstagramSample\InstagramSample\Entity\bin\Debug\net8.0\Entity.deps.json
+D:\Project\InstagramSample\InstagramSample\Entity\bin\Debug\net8.0\Entity.dll
+D:\Project\InstagramSample\InstagramSample\Entity\bin\Debug\net8.0\Entity.pdb
+D:\Project\InstagramSample\InstagramSample\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\InstagramSample\InstagramSample\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+D:\Project\InstagramSample\InstagramSample\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+D:\Project\InstagramSample\InstagramSample\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+D:\Project\InstagramSample\InstagramSample\Entity\obj\Debug\net8.0\Entity.sourcelink.json
+D:\Project\InstagramSample\InstagramSample\Entity\obj\Debug\net8.0\Entity.dll
+D:\Project\InstagramSample\InstagramSample\Entity\obj\Debug\net8.0\refint\Entity.dll
+D:\Project\InstagramSample\InstagramSample\Entity\obj\Debug\net8.0\Entity.pdb
+D:\Project\InstagramSample\InstagramSample\Entity\obj\Debug\net8.0\ref\Entity.dll

@@ -1,16 +1,7 @@
-using Microsoft.AspNetCore.Mvc;
+using InstagramSample.Basic;
 
-namespace InstagramSample.Controllers
+namespace InstagramSample.Controllers;
+public class UserController : ControllerWithBaseDateBase
 {
-    [ApiController]
-    [Route("[controller]")]
-    public class UserController : InstagramBaseController
-    {
-        [HttpGet]
-        public IActionResult Get()
-        {
-            return Ok("this is a test page as index Page");
-        }
 
-    }
 }

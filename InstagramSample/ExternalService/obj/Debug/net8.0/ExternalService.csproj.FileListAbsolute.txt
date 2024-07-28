@@ -1,0 +1,12 @@
+D:\Project\InstagramSample\InstagramSample\ExternalService\bin\Debug\net8.0\ExternalService.deps.json
+D:\Project\InstagramSample\InstagramSample\ExternalService\bin\Debug\net8.0\ExternalService.dll
+D:\Project\InstagramSample\InstagramSample\ExternalService\bin\Debug\net8.0\ExternalService.pdb
+D:\Project\InstagramSample\InstagramSample\ExternalService\obj\Debug\net8.0\ExternalService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\InstagramSample\InstagramSample\ExternalService\obj\Debug\net8.0\ExternalService.AssemblyInfoInputs.cache
+D:\Project\InstagramSample\InstagramSample\ExternalService\obj\Debug\net8.0\ExternalService.AssemblyInfo.cs
+D:\Project\InstagramSample\InstagramSample\ExternalService\obj\Debug\net8.0\ExternalService.csproj.CoreCompileInputs.cache
+D:\Project\InstagramSample\InstagramSample\ExternalService\obj\Debug\net8.0\ExternalService.sourcelink.json
+D:\Project\InstagramSample\InstagramSample\ExternalService\obj\Debug\net8.0\ExternalService.dll
+D:\Project\InstagramSample\InstagramSample\ExternalService\obj\Debug\net8.0\refint\ExternalService.dll
+D:\Project\InstagramSample\InstagramSample\ExternalService\obj\Debug\net8.0\ExternalService.pdb
+D:\Project\InstagramSample\InstagramSample\ExternalService\obj\Debug\net8.0\ref\ExternalService.dll

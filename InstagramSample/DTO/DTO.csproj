@@ -7,10 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="CommentDTO\" />
-    <Folder Include="FollowDTO\" />
-    <Folder Include="PostDTO\" />
-    <Folder Include="UserDTO\" />
+    <Compile Remove="CommentDTO\**" />
+    <Compile Remove="FollowDTO\**" />
+    <Compile Remove="PostDTO\**" />
+    <Compile Remove="UserDTO\**" />
+    <EmbeddedResource Remove="CommentDTO\**" />
+    <EmbeddedResource Remove="FollowDTO\**" />
+    <EmbeddedResource Remove="PostDTO\**" />
+    <EmbeddedResource Remove="UserDTO\**" />
+    <None Remove="CommentDTO\**" />
+    <None Remove="FollowDTO\**" />
+    <None Remove="PostDTO\**" />
+    <None Remove="UserDTO\**" />
   </ItemGroup>
 
 </Project>

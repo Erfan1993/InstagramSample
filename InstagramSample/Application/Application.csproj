@@ -7,18 +7,34 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DataLayer\DataLayer.csproj" />
-    <ProjectReference Include="..\DTO\DTO.csproj" />
-    <ProjectReference Include="..\Entity\Entity.csproj" />
+    <Compile Remove="DataBaseService\**" />
+    <Compile Remove="ExternalService\**" />
+    <Compile Remove="Implementation\**" />
+    <Compile Remove="Mapper\**" />
+    <Compile Remove="Service\**" />
+    <Compile Remove="Tools\**" />
+    <EmbeddedResource Remove="DataBaseService\**" />
+    <EmbeddedResource Remove="ExternalService\**" />
+    <EmbeddedResource Remove="Implementation\**" />
+    <EmbeddedResource Remove="Mapper\**" />
+    <EmbeddedResource Remove="Service\**" />
+    <EmbeddedResource Remove="Tools\**" />
+    <None Remove="DataBaseService\**" />
+    <None Remove="ExternalService\**" />
+    <None Remove="Implementation\**" />
+    <None Remove="Mapper\**" />
+    <None Remove="Service\**" />
+    <None Remove="Tools\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Mapper\" />
-    <Folder Include="Implementation\" />
-    <Folder Include="DataBaseService\" />
-    <Folder Include="ExternalService\" />
-    <Folder Include="Service\" />
-    <Folder Include="Tools\" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj" />
+    <ProjectReference Include="..\Entity\Entity.csproj" />
   </ItemGroup>
 
 </Project>

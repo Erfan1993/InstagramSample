@@ -1,11 +1,12 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace InstagramSample.Controllers
+namespace InstagramSample.Basic
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class InstagramBaseController : ControllerBase
+    public abstract class InstagramBaseController : ControllerBase 
     {
+
     }
 }

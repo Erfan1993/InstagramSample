@@ -1,0 +1,16 @@
+D:\Project\InstagramSample\InstagramSample\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\Project\InstagramSample\InstagramSample\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Project\InstagramSample\InstagramSample\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Project\InstagramSample\InstagramSample\DataLayer\bin\Debug\net8.0\Entity.dll
+D:\Project\InstagramSample\InstagramSample\DataLayer\bin\Debug\net8.0\Entity.pdb
+D:\Project\InstagramSample\InstagramSample\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\Project\InstagramSample\InstagramSample\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\InstagramSample\InstagramSample\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\Project\InstagramSample\InstagramSample\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\Project\InstagramSample\InstagramSample\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Project\InstagramSample\InstagramSample\DataLayer\obj\Debug\net8.0\DataLayer.sourcelink.json
+D:\Project\InstagramSample\InstagramSample\DataLayer\obj\Debug\net8.0\DataLayer.csproj.Up2Date
+D:\Project\InstagramSample\InstagramSample\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\Project\InstagramSample\InstagramSample\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\Project\InstagramSample\InstagramSample\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\Project\InstagramSample\InstagramSample\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

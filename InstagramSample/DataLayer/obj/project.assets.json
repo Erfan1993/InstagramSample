@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\e-jahani\\.nuget\\packages\\": {},
+    "C:\\Users\\Erfan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SampleCode\\InstagramSample\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "D:\\Project\\InstagramSample\\InstagramSample\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "D:\\SampleCode\\InstagramSample\\DataLayer\\DataLayer.csproj",
-      "packagesPath": "C:\\Users\\e-jahani\\.nuget\\packages\\",
-      "outputPath": "D:\\SampleCode\\InstagramSample\\DataLayer\\obj\\",
+      "projectPath": "D:\\Project\\InstagramSample\\InstagramSample\\DataLayer\\DataLayer.csproj",
+      "packagesPath": "C:\\Users\\Erfan\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\InstagramSample\\InstagramSample\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\e-jahani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Erfan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,15 +51,15 @@
         "net8.0"
       ],
       "sources": {
-        "https://10.0.85.160:36200/Nuget": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\SampleCode\\InstagramSample\\Entity\\Entity.csproj": {
-              "projectPath": "D:\\SampleCode\\InstagramSample\\Entity\\Entity.csproj"
+            "D:\\Project\\InstagramSample\\InstagramSample\\Entity\\Entity.csproj": {
+              "projectPath": "D:\\Project\\InstagramSample\\InstagramSample\\Entity\\Entity.csproj"
             }
           }
         }
